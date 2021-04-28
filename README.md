@@ -1,0 +1,2 @@
+# springboot-bring
+用于详细整合springboot的各种插件，为了让更多的人能更迅速的去开发整合不同的模块
